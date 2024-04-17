@@ -1,0 +1,9 @@
+category	Zeta_log	LLR	Welch	subgenre
+expected & observed	39	15	27	crime
+unexpected & observed	11	35	23	crime
+expected & observed	39	10	40	sci-fi
+unexpected & observed	11	40	10	sci-fi
+expected & observed	44	5	40	sentimental
+unexpected & observed	6	45	10	sentimental
+expected & observed	26	7	18	blanche
+unexpected & observed	24	43	32	blanche

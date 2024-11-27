@@ -1,0 +1,1201 @@
+word;JR;ER;AB;measure;genre;type;status
+qui;unexpected;unexpected;expected;welsh;blanche;interpretability;unexpected
+comme;unexpected;unexpected;expected;welsh;blanche;interpretability;unexpected
+jour;unexpected;expected;expected;welsh;blanche;interpretability;expected
+où;unexpected;unexpected;expected;welsh;blanche;interpretability;unexpected
+on;unexpected;expected;expected;welsh;blanche;interpretability;expected
+par;unexpected;unexpected;unexpected;welsh;blanche;interpretability;unexpected
+dont;unexpected;unexpected;expected;welsh;blanche;interpretability;unexpected
+chaque;unexpected;unexpected;unexpected;welsh;blanche;interpretability;unexpected
+au;unexpected;unexpected;unexpected;welsh;blanche;interpretability;unexpected
+le;unexpected;unexpected;unexpected;welsh;blanche;interpretability;unexpected
+de;unexpected;unexpected;unexpected;welsh;blanche;interpretability;unexpected
+dans;unexpected;unexpected;unexpected;welsh;blanche;interpretability;unexpected
+paris;expected;expected;expected;welsh;blanche;interpretability;expected
+mon;unexpected;expected;expected;welsh;blanche;interpretability;expected
+grand;unexpected;unexpected;unexpected;welsh;blanche;interpretability;unexpected
+français;expected;expected;expected;welsh;blanche;interpretability;expected
+parfois;expected;expected;expected;welsh;blanche;interpretability;expected
+écrire;expected;expected;expected;welsh;blanche;interpretability;expected
+celui;unexpected;unexpected;expected;welsh;blanche;interpretability;unexpected
+plus;unexpected;unexpected;unexpected;welsh;blanche;interpretability;unexpected
+même;unexpected;unexpected;expected;welsh;blanche;interpretability;unexpected
+vie;expected;expected;expected;welsh;blanche;interpretability;expected
+france;expected;expected;expected;welsh;blanche;interpretability;expected
+fin;expected;expected;expected;welsh;blanche;interpretability;expected
+saint;expected;expected;expected;welsh;blanche;interpretability;expected
+souvent;expected;expected;expected;welsh;blanche;interpretability;expected
+sans;unexpected;expected;unexpected;welsh;blanche;interpretability;unexpected
+chacun;unexpected;unexpected;expected;welsh;blanche;interpretability;unexpected
+leur;unexpected;unexpected;unexpected;welsh;blanche;interpretability;unexpected
+fond;unexpected;unexpected;expected;welsh;blanche;interpretability;unexpected
+ou;unexpected;unexpected;unexpected;welsh;blanche;interpretability;unexpected
+là;unexpected;unexpected;expected;welsh;blanche;interpretability;unexpected
+été;unexpected;expected;expected;welsh;blanche;interpretability;expected
+nuit;unexpected;expected;expected;welsh;blanche;interpretability;expected
+mère;expected;expected;expected;welsh;blanche;interpretability;expected
+notre;unexpected;expected;expected;welsh;blanche;interpretability;expected
+rue;expected;expected;expected;welsh;blanche;interpretability;expected
+soi;unexpected;expected;expected;welsh;blanche;interpretability;expected
+devenir;expected;expected;expected;welsh;blanche;interpretability;expected
+printemps;unexpected;expected;expected;welsh;blanche;interpretability;expected
+ni;unexpected;unexpected;expected;welsh;blanche;interpretability;unexpected
+enfance;expected;expected;expected;welsh;blanche;interpretability;expected
+malheur;expected;expected;expected;welsh;blanche;interpretability;expected
+me;unexpected;expected;expected;welsh;blanche;interpretability;expected
+enfant;expected;expected;expected;welsh;blanche;interpretability;expected
+hiver;unexpected;expected;expected;welsh;blanche;interpretability;expected
+blanc;unexpected;expected;expected;welsh;blanche;interpretability;expected
+pays;expected;expected;expected;welsh;blanche;interpretability;expected
+vivre;expected;expected;expected;welsh;blanche;interpretability;expected
+misère;expected;expected;expected;welsh;blanche;interpretability;expected
+qui;n/o;n/o;narrative form;welsh;blanche;category;n/o
+comme;n/o;n/o;narrative structure;welsh;blanche;category;n/o
+jour;n/o;thematic concept;space;welsh;blanche;category;check
+où;n/o;n/o;space;welsh;blanche;category;n/o
+on;n/o;narrative form;narrative form;welsh;blanche;category;narrative form
+par;n/o;n/o;n/o;welsh;blanche;category;n/o
+dont;n/o;n/o;language pattern;welsh;blanche;category;n/o
+chaque;n/o;n/o;n/o;welsh;blanche;category;n/o
+au;n/o;n/o;n/o;welsh;blanche;category;n/o
+le;n/o;n/o;n/o;welsh;blanche;category;n/o
+de;n/o;n/o;n/o;welsh;blanche;category;n/o
+dans;n/o;n/o;n/o;welsh;blanche;category;n/o
+paris;space;space;space;welsh;blanche;category;space
+mon;n/o;narrative form;narrative form;welsh;blanche;category;narrative form
+grand;n/o;n/o;n/o;welsh;blanche;category;n/o
+français;thematic concept;main character;thematic concept;welsh;blanche;category;thematic concept
+parfois;thematic concept;thematic concept;narrative form;welsh;blanche;category;thematic concept
+écrire;thematic concept;thematic concept;narrative form;welsh;blanche;category;thematic concept
+celui;n/o;n/o;language pattern;welsh;blanche;category;n/o
+plus;n/o;n/o;n/o;welsh;blanche;category;n/o
+même;n/o;n/o;narrative form;welsh;blanche;category;n/o
+vie;thematic concept;thematic concept;thematic concept;welsh;blanche;category;thematic concept
+france;thematic concept;space;thematic concept;welsh;blanche;category;thematic concept
+fin;thematic concept;thematic concept;narrative structure;welsh;blanche;category;thematic concept
+saint;thematic concept;thematic concept;narrative structure;welsh;blanche;category;thematic concept
+souvent;thematic concept;thematic concept;narrative form;welsh;blanche;category;thematic concept
+sans;n/o;thematic concept;n/o;welsh;blanche;category;n/o
+chacun;n/o;n/o;language pattern;welsh;blanche;category;n/o
+leur;n/o;n/o;n/o;welsh;blanche;category;n/o
+fond;n/o;n/o;narrative form;welsh;blanche;category;n/o
+ou;n/o;n/o;n/o;welsh;blanche;category;n/o
+là;n/o;n/o;space;welsh;blanche;category;n/o
+été;n/o;space;space;welsh;blanche;category;space
+nuit;n/o;space;narrative structure;welsh;blanche;category;check
+mère;thematic concept;main character;main character;welsh;blanche;category;main character
+notre;n/o;narrative form;narrative form;welsh;blanche;category;narrative form
+rue;space;space;space;welsh;blanche;category;space
+soi;n/o;narrative form;narrative form;welsh;blanche;category;narrative form
+devenir;thematic concept;thematic concept;narrative structure;welsh;blanche;category;thematic concept
+printemps;n/o;space;space;welsh;blanche;category;space
+ni;n/o;n/o;language pattern;welsh;blanche;category;n/o
+enfance;thematic concept;thematic concept;thematic concept;welsh;blanche;category;thematic concept
+malheur;main character;thematic concept;thematic concept;welsh;blanche;category;thematic concept
+me;n/o;narrative form;narrative form;welsh;blanche;category;narrative form
+enfant;thematic concept;thematic concept;main character;welsh;blanche;category;thematic concept
+hiver;n/o;space;space;welsh;blanche;category;space
+blanc;n/o;narrative structure;narrative structure;welsh;blanche;category;narrative structure
+pays;thematic concept;space;space;welsh;blanche;category;space
+vivre;thematic concept;thematic concept;thematic concept;welsh;blanche;category;thematic concept
+misère;thematic concept;thematic concept;thematic concept;welsh;blanche;category;thematic concept
+vous;unexpected;expected;expected;LLR;blanche;interpretability;expected
+mon;unexpected;expected;expected;LLR;blanche;interpretability;expected
+on;unexpected;expected;expected;LLR;blanche;interpretability;expected
+tu;unexpected;expected;expected;LLR;blanche;interpretability;expected
+marie;unexpected;expected;expected;LLR;blanche;interpretability;expected
+me;unexpected;expected;expected;LLR;blanche;interpretability;expected
+rhada;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+le;unexpected;unexpected;unexpected;LLR;blanche;interpretability;unexpected
+lui;unexpected;expected;unexpected;LLR;blanche;interpretability;unexpected
+se;unexpected;unexpected;unexpected;LLR;blanche;interpretability;unexpected
+de;unexpected;unexpected;unexpected;LLR;blanche;interpretability;unexpected
+mr;unexpected;unexpected;unexpected;LLR;blanche;interpretability;unexpected
+antoine;unexpected;expected;expected;LLR;blanche;interpretability;expected
+qui;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+lalla;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+il;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+isambour;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+pas;unexpected;unexpected;unexpected;LLR;blanche;interpretability;unexpected
+comme;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+avoir;unexpected;expected;expected;LLR;blanche;interpretability;expected
+paris;expected;expected;expected;LLR;blanche;interpretability;expected
+ludo;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+djafar;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+prisko;unexpected;unexpected;unexpected;LLR;blanche;interpretability;unexpected
+votre;unexpected;expected;expected;LLR;blanche;interpretability;expected
+mère;expected;expected;expected;LLR;blanche;interpretability;expected
+camier;unexpected;unexpected;unexpected;LLR;blanche;interpretability;unexpected
+français;expected;expected;expected;LLR;blanche;interpretability;expected
+jour;expected;expected;expected;LLR;blanche;interpretability;expected
+te;unexpected;expected;expected;LLR;blanche;interpretability;expected
+madeleine;unexpected;expected;expected;LLR;blanche;interpretability;expected
+pouvoir;unexpected;expected;expected;LLR;blanche;interpretability;expected
+par;unexpected;unexpected;unexpected;LLR;blanche;interpretability;unexpected
+mercier;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+planète;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+france;expected;expected;expected;LLR;blanche;interpretability;expected
+saint;expected;expected;expected;LLR;blanche;interpretability;expected
+vito;unexpected;unexpected;unexpected;LLR;blanche;interpretability;unexpected
+demander;unexpected;expected;expected;LLR;blanche;interpretability;expected
+fintan;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+notre;unexpected;expected;expected;LLR;blanche;interpretability;expected
+pélagie;unexpected;expected;expected;LLR;blanche;interpretability;expected
+khan;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+écrire;expected;expected;expected;LLR;blanche;interpretability;expected
+leur;unexpected;expected;unexpected;LLR;blanche;interpretability;unexpected
+mais;unexpected;unexpected;unexpected;LLR;blanche;interpretability;unexpected
+vaisseau;unexpected;expected;expected;LLR;blanche;interpretability;expected
+daquin;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+où;unexpected;unexpected;expected;LLR;blanche;interpretability;unexpected
+david;unexpected;expected;expected;LLR;blanche;interpretability;expected
+vous;n/o;narrative form;narrative form;LLR;blanche;category;narrative form
+mon;n/o;narrative form;narrative form;LLR;blanche;category;narrative form
+on;n/o;narrative form;narrative form;LLR;blanche;category;narrative form
+tu;n/o;narrative form;narrative form;LLR;blanche;category;narrative form
+marie;n/o;main character;main character;LLR;blanche;category;main character
+me;n/o;narrative form;narrative form;LLR;blanche;category;narrative form
+rhada;n/o;n/o;main character;LLR;blanche;category;n/o
+le;n/o;n/o;n/o;LLR;blanche;category;n/o
+lui;n/o;narrative form;n/o;LLR;blanche;category;n/o
+se;n/o;n/o;n/o;LLR;blanche;category;n/o
+de;n/o;n/o;n/o;LLR;blanche;category;n/o
+mr;n/o;n/o;n/o;LLR;blanche;category;n/o
+antoine;n/o;main character;main character;LLR;blanche;category;main character
+qui;n/o;n/o;narrative form;LLR;blanche;category;n/o
+lalla;n/o;n/o;main character;LLR;blanche;category;n/o
+il;n/o;n/o;narrative form;LLR;blanche;category;n/o
+isambour;n/o;n/o;main character;LLR;blanche;category;n/o
+pas;n/o;n/o;n/o;LLR;blanche;category;n/o
+comme;n/o;n/o;narrative structure;LLR;blanche;category;n/o
+avoir;n/o;thematic concept;thematic concept;LLR;blanche;category;thematic concept
+paris;space;space;space;LLR;blanche;category;space
+ludo;n/o;n/o;main character;LLR;blanche;category;n/o
+djafar;n/o;n/o;main character;LLR;blanche;category;n/o
+prisko;n/o;n/o;n/o;LLR;blanche;category;n/o
+votre;n/o;narrative form;narrative form;LLR;blanche;category;narrative form
+mère;thematic concept;main character;main character;LLR;blanche;category;main character
+camier;n/o;n/o;n/o;LLR;blanche;category;n/o
+français;thematic concept;main character;thematic concept;LLR;blanche;category;thematic concept
+jour;thematic concept;space;space;LLR;blanche;category;space
+te;n/o;narrative form;narrative form;LLR;blanche;category;narrative form
+madeleine;n/o;main character;narrative structure;LLR;blanche;category;check
+pouvoir;n/o;thematic concept;thematic concept;LLR;blanche;category;thematic concept
+par;n/o;n/o;n/o;LLR;blanche;category;n/o
+mercier;n/o;n/o;main character;LLR;blanche;category;n/o
+planète;n/o;n/o;narrative structure;LLR;blanche;category;n/o
+france;thematic concept;space;thematic concept;LLR;blanche;category;thematic concept
+saint;thematic concept;thematic concept;narrative structure;LLR;blanche;category;thematic concept
+vito;n/o;n/o;n/o;LLR;blanche;category;n/o
+demander;n/o;language pattern;narrative form;LLR;blanche;category;check
+fintan;n/o;n/o;n/o;LLR;blanche;category;n/o
+notre;n/o;narrative form;narrative form;LLR;blanche;category;narrative form
+pélagie;n/o;main character;tonality;LLR;blanche;category;check
+khan;n/o;n/o;main character;LLR;blanche;category;n/o
+écrire;thematic concept;thematic concept;narrative form;LLR;blanche;category;thematic concept
+leur;n/o;narrative form;n/o;LLR;blanche;category;n/o
+mais;n/o;n/o;n/o;LLR;blanche;category;n/o
+vaisseau;n/o;space;narrative structure;LLR;blanche;category;check
+daquin;n/o;n/o;main character;LLR;blanche;category;n/o
+où;n/o;n/o;space;LLR;blanche;category;n/o
+david;n/o;main character;main character;LLR;blanche;category;main character
+paris;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+français;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+saint;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+france;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+écrire;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+guerre;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+hiver;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+été;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+cheval;unexpected;unexpected;expected;zeta_sd2;blanche;interpretability;unexpected
+marie;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+parfois;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+fleur;unexpected;unexpected;expected;zeta_sd2;blanche;interpretability;unexpected
+fils;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+roi;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+printemps;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+enfance;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+soldat;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+église;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+cour;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+pays;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+mer;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+soi;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+mère;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+allemand;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+souvent;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+croix;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+oiseau;unexpected;unexpected;expected;zeta_sd2;blanche;interpretability;unexpected
+ventre;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+chacun;unexpected;unexpected;expected;zeta_sd2;blanche;interpretability;unexpected
+rue;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+malheur;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+fête;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+lendemain;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+bonheur;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+anglais;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+dimanche;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+âge;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+gare;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+famille;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+livre;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+jeunesse;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+campagne;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+fer;expected;unexpected;expected;zeta_sd2;blanche;interpretability;expected
+parmi;unexpected;unexpected;expected;zeta_sd2;blanche;interpretability;unexpected
+chanter;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+rose;unexpected;unexpected;expected;zeta_sd2;blanche;interpretability;unexpected
+saison;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+musique;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+manger;unexpected;expected;expected;zeta_sd2;blanche;interpretability;expected
+enfant;expected;expected;expected;zeta_sd2;blanche;interpretability;expected
+paris;space;space;space;zeta_sd2;blanche;category;space
+français;thematic concept;space;thematic concept;zeta_sd2;blanche;category;thematic concept
+saint;thematic concept;thematic concept;narrative structure;zeta_sd2;blanche;category;thematic concept
+france;thematic concept;space;thematic concept;zeta_sd2;blanche;category;thematic concept
+écrire;thematic concept;thematic concept;narrative forms;zeta_sd2;blanche;category;thematic concept
+guerre;thematic concept;thematic concept;thematic concept;zeta_sd2;blanche;category;thematic concept
+hiver;n/o;space;space;zeta_sd2;blanche;category;space
+été;n/o;space;space;zeta_sd2;blanche;category;space
+cheval;n/o;n/o;narrative structure;zeta_sd2;blanche;category;n/o
+marie;n/o;main character;main character;zeta_sd2;blanche;category;main character
+parfois;thematic concept;thematic concept;narrative forms;zeta_sd2;blanche;category;thematic concept
+fleur;n/o;n/o;narrative structure;zeta_sd2;blanche;category;n/o
+fils;thematic concept;main character;main character;zeta_sd2;blanche;category;main character
+roi;n/o;thematic concept;main character;zeta_sd2;blanche;category;check
+printemps;n/o;space;space;zeta_sd2;blanche;category;space
+enfance;thematic concept;thematic concept;thematic concept;zeta_sd2;blanche;category;thematic concept
+soldat;thematic concept;thematic concept;main character;zeta_sd2;blanche;category;thematic concept
+église;thematic concept;space;space;zeta_sd2;blanche;category;space
+cour;n/o;space;space;zeta_sd2;blanche;category;space
+pays;n/o;space;space;zeta_sd2;blanche;category;space
+mer;n/o;space;space;zeta_sd2;blanche;category;space
+soi;n/o;thematic concept;narrative forms;zeta_sd2;blanche;category;check
+mère;thematic concept;main character;main character;zeta_sd2;blanche;category;main character
+allemand;thematic concept;main character;thematic concept;zeta_sd2;blanche;category;thematic concept
+souvent;thematic concept;thematic concept;narrative forms;zeta_sd2;blanche;category;thematic concept
+croix;thematic concept;thematic concept;narrative structure;zeta_sd2;blanche;category;thematic concept
+oiseau;n/o;n/o;narrative structure;zeta_sd2;blanche;category;n/o
+ventre;n/o;thematic concept;narrative structure;zeta_sd2;blanche;category;check
+chacun;n/o;n/o;thematic concept;zeta_sd2;blanche;category;n/o
+rue;space;space;space;zeta_sd2;blanche;category;space
+malheur;main character;thematic concept;thematic concept;zeta_sd2;blanche;category;thematic concept
+fête;n/o;thematic concept;narrative structure;zeta_sd2;blanche;category;check
+lendemain;thematic concept;thematic concept;narrative structure;zeta_sd2;blanche;category;thematic concept
+bonheur;main character;thematic concept;thematic concept;zeta_sd2;blanche;category;thematic concept
+anglais;n/o;main character;thematic concept;zeta_sd2;blanche;category;check
+dimanche;n/o;thematic concept;space;zeta_sd2;blanche;category;check
+âge;thematic concept;thematic concept;thematic concept;zeta_sd2;blanche;category;thematic concept
+gare;space;space;space;zeta_sd2;blanche;category;space
+famille;thematic concept;thematic concept;thematic concept;zeta_sd2;blanche;category;thematic concept
+livre;thematic concept;thematic concept;narrative structure;zeta_sd2;blanche;category;thematic concept
+jeunesse;thematic concept;thematic concept;thematic concept;zeta_sd2;blanche;category;thematic concept
+campagne;space;space;space;zeta_sd2;blanche;category;space
+fer;thematic concept;n/o;thematic concept;zeta_sd2;blanche;category;thematic concept
+parmi;n/o;n/o;thematic concept;zeta_sd2;blanche;category;n/o
+chanter;n/o;thematic concept;narrative structure;zeta_sd2;blanche;category;check
+rose;n/o;n/o;narrative structure;zeta_sd2;blanche;category;n/o
+saison;n/o;space;space;zeta_sd2;blanche;category;space
+musique;n/o;language pattern;narrative structure;zeta_sd2;blanche;category;check
+manger;n/o;thematic concept;narrative structure;zeta_sd2;blanche;category;check
+enfant;thematic concept;thematic concept;main character;zeta_sd2;blanche;category;thematic concept
+humain;expected;expected;expected;welsh;scifi;interpretability;expected
+planète;expected;expected;expected;welsh;scifi;interpretability;expected
+système;expected;expected;expected;welsh;scifi;interpretability;expected
+sol;expected;expected;expected;welsh;scifi;interpretability;expected
+utiliser;unexpected;expected;expected;welsh;scifi;interpretability;expected
+atteindre;expected;expected;expected;welsh;scifi;interpretability;expected
+un;unexpected;unexpected;unexpected;welsh;scifi;interpretability;unexpected
+le;unexpected;unexpected;unexpected;welsh;scifi;interpretability;unexpected
+espace;expected;expected;expected;welsh;scifi;interpretability;expected
+surface;expected;expected;expected;welsh;scifi;interpretability;expected
+forme;expected;expected;unexpected;welsh;scifi;interpretability;expected
+écran;expected;expected;expected;welsh;scifi;interpretability;expected
+centre;expected;expected;expected;welsh;scifi;interpretability;expected
+leur;unexpected;expected;unexpected;welsh;scifi;interpretability;unexpected
+émettre;expected;expected;expected;welsh;scifi;interpretability;expected
+paroi;expected;expected;expected;welsh;scifi;interpretability;expected
+vaisseau;expected;expected;expected;welsh;scifi;interpretability;expected
+autre;expected;expected;expected;welsh;scifi;interpretability;expected
+centaine;expected;expected;expected;welsh;scifi;interpretability;expected
+former;unexpected;expected;expected;welsh;scifi;interpretability;expected
+contrôle;expected;expected;expected;welsh;scifi;interpretability;expected
+niveau;expected;expected;expected;welsh;scifi;interpretability;expected
+nouveau;expected;expected;expected;welsh;scifi;interpretability;expected
+de;unexpected;unexpected;unexpected;welsh;scifi;interpretability;unexpected
+cerveau;expected;expected;expected;welsh;scifi;interpretability;expected
+pouvoir;expected;expected;expected;welsh;scifi;interpretability;expected
+mètre;expected;unexpected;expected;welsh;scifi;interpretability;expected
+moyen;unexpected;expected;expected;welsh;scifi;interpretability;expected
+métal;expected;expected;expected;welsh;scifi;interpretability;expected
+donnée;expected;expected;expected;welsh;scifi;interpretability;expected
+extérieur;expected;expected;expected;welsh;scifi;interpretability;expected
+univers;expected;expected;expected;welsh;scifi;interpretability;expected
+zone;expected;expected;expected;welsh;scifi;interpretability;expected
+conscience;expected;expected;expected;welsh;scifi;interpretability;expected
+jaillir;unexpected;unexpected;expected;welsh;scifi;interpretability;unexpected
+effectuer;unexpected;unexpected;expected;welsh;scifi;interpretability;unexpected
+contact;expected;expected;expected;welsh;scifi;interpretability;expected
+masse;expected;expected;expected;welsh;scifi;interpretability;expected
+nombre;expected;expected;expected;welsh;scifi;interpretability;expected
+nombreux;expected;expected;expected;welsh;scifi;interpretability;expected
+créature;expected;expected;expected;welsh;scifi;interpretability;expected
+créer;unexpected;expected;expected;welsh;scifi;interpretability;expected
+complexe;expected;expected;expected;welsh;scifi;interpretability;expected
+puissance;expected;expected;expected;welsh;scifi;interpretability;expected
+aucun;unexpected;unexpected;expected;welsh;scifi;interpretability;unexpected
+fonctionner;expected;expected;expected;welsh;scifi;interpretability;expected
+structure;expected;expected;expected;welsh;scifi;interpretability;expected
+ordinateur;expected;expected;expected;welsh;scifi;interpretability;expected
+électronique;expected;expected;expected;welsh;scifi;interpretability;expected
+se;unexpected;unexpected;unexpected;welsh;scifi;interpretability;unexpected
+humain;thematic concept;main character;thematic concept;welsh;scifi;category;thematic concept
+planète;space;space;space;welsh;scifi;category;space
+système;language pattern;space;thematic concept;welsh;scifi;category;check
+sol;space;space;space;welsh;scifi;category;space
+utiliser;language pattern;n/o;narrative structure;welsh;scifi;category;check
+atteindre;thematic concept;thematic concept;narrative structure;welsh;scifi;category;thematic concept
+un;n/o;n/o;n/o;welsh;scifi;category;n/o
+le;n/o;n/o;n/o;welsh;scifi;category;n/o
+espace;space;space;thematic concept;welsh;scifi;category;space
+surface;space;space;space;welsh;scifi;category;space
+forme;language pattern;thematic concept;n/o;welsh;scifi;category;check
+écran;language pattern;thematic concept;language pattern;welsh;scifi;category;language pattern
+centre;language pattern;space;space;welsh;scifi;category;space
+leur;n/o;narrative form;n/o;welsh;scifi;category;n/o
+émettre;language pattern;thematic concept;thematic concept;welsh;scifi;category;thematic concept
+paroi;language pattern;space;language pattern;welsh;scifi;category;language pattern
+vaisseau;thematic concept;space;language pattern;welsh;scifi;category;check
+autre;thematic concept;main character;thematic concept;welsh;scifi;category;thematic concept
+centaine;language pattern;thematic concept;tonality;welsh;scifi;category;check
+former;language pattern;n/o;narrative structure;welsh;scifi;category;check
+contrôle;thematic concept;thematic concept;thematic concept;welsh;scifi;category;thematic concept
+niveau;language pattern;space;thematic concept;welsh;scifi;category;check
+nouveau;thematic concept;thematic concept;thematic concept;welsh;scifi;category;thematic concept
+de;n/o;n/o;n/o;welsh;scifi;category;n/o
+cerveau;thematic concept;main character;thematic concept;welsh;scifi;category;thematic concept
+pouvoir;thematic concept;thematic concept;thematic concept;welsh;scifi;category;thematic concept
+mètre;language pattern;n/o;language pattern;welsh;scifi;category;language pattern
+moyen;n/o;thematic concept;narrative structure;welsh;scifi;category;check
+métal;language pattern;thematic concept;language pattern;welsh;scifi;category;language pattern
+donnée;language pattern;thematic concept;language pattern;welsh;scifi;category;language pattern
+extérieur;space;space;space;welsh;scifi;category;space
+univers;space;space;thematic concept;welsh;scifi;category;space
+zone;space;space;space;welsh;scifi;category;space
+conscience;thematic concept;thematic concept;narrative form;welsh;scifi;category;thematic concept
+jaillir;n/o;n/o;narrative structure;welsh;scifi;category;n/o
+effectuer;n/o;n/o;narrative structure;welsh;scifi;category;n/o
+contact;thematic concept;thematic concept;narrative structure;welsh;scifi;category;thematic concept
+masse;language pattern;thematic concept;language pattern;welsh;scifi;category;language pattern
+nombre;language pattern;thematic concept;language pattern;welsh;scifi;category;language pattern
+nombreux;language pattern;thematic concept;tonality;welsh;scifi;category;check
+créature;main character;main character;tonality;welsh;scifi;category;main character
+créer;n/o;thematic concept;narrative structure;welsh;scifi;category;check
+complexe;language pattern;thematic concept;thematic concept;welsh;scifi;category;thematic concept
+puissance;thematic concept;thematic concept;thematic concept;welsh;scifi;category;thematic concept
+aucun;n/o;n/o;narrative form;welsh;scifi;category;n/o
+fonctionner;language pattern;thematic concept;narrative structure;welsh;scifi;category;check
+structure;language pattern;thematic concept;language pattern;welsh;scifi;category;language pattern
+ordinateur;language pattern;thematic concept;language pattern;welsh;scifi;category;language pattern
+électronique;language pattern;thematic concept;language pattern;welsh;scifi;category;language pattern
+se;n/o;n/o;n/o;welsh;scifi;category;n/o
+je;expected;expected;expected;LLR;scifi;interpretability;expected
+lui;unexpected;expected;unexpected;LLR;scifi;interpretability;unexpected
+me;unexpected;expected;expected;LLR;scifi;interpretability;expected
+planète;expected;expected;expected;LLR;scifi;interpretability;expected
+mon;unexpected;expected;expected;LLR;scifi;interpretability;expected
+vaisseau;expected;expected;expected;LLR;scifi;interpretability;expected
+vous;unexpected;expected;expected;LLR;scifi;interpretability;expected
+humain;expected;expected;expected;LLR;scifi;interpretability;expected
+monsieur;unexpected;expected;unexpected;LLR;scifi;interpretability;unexpected
+ender;unexpected;unexpected;expected;LLR;scifi;interpretability;unexpected
+le;unexpected;unexpected;unexpected;LLR;scifi;interpretability;unexpected
+valentin;unexpected;expected;expected;LLR;scifi;interpretability;expected
+femme;unexpected;expected;expected;LLR;scifi;interpretability;expected
+valleroy;unexpected;expected;expected;LLR;scifi;interpretability;expected
+elisa;unexpected;expected;expected;LLR;scifi;interpretability;expected
+mère;unexpected;expected;expected;LLR;scifi;interpretability;expected
+pyanfar;unexpected;unexpected;expected;LLR;scifi;interpretability;unexpected
+terrien;expected;expected;expected;LLR;scifi;interpretability;expected
+écran;expected;expected;expected;LLR;scifi;interpretability;expected
+miro;unexpected;unexpected;expected;LLR;scifi;interpretability;unexpected
+système;expected;expected;expected;LLR;scifi;interpretability;expected
+weller;unexpected;unexpected;unexpected;LLR;scifi;interpretability;unexpected
+fran;unexpected;unexpected;expected;LLR;scifi;interpretability;unexpected
+copeau;expected;unexpected;expected;LLR;scifi;interpretability;expected
+mme;unexpected;expected;unexpected;LLR;scifi;interpretability;unexpected
+père;unexpected;expected;expected;LLR;scifi;interpretability;expected
+louis;unexpected;expected;expected;LLR;scifi;interpretability;expected
+cité;unexpected;expected;expected;LLR;scifi;interpretability;expected
+chez;unexpected;unexpected;unexpected;LLR;scifi;interpretability;unexpected
+mu;unexpected;unexpected;expected;LLR;scifi;interpretability;unexpected
+antonin;unexpected;expected;expected;LLR;scifi;interpretability;expected
+krug;unexpected;unexpected;expected;LLR;scifi;interpretability;unexpected
+espace;expected;expected;expected;LLR;scifi;interpretability;expected
+moi;unexpected;expected;expected;LLR;scifi;interpretability;expected
+leur;unexpected;expected;unexpected;LLR;scifi;interpretability;unexpected
+paris;unexpected;expected;expected;LLR;scifi;interpretability;expected
+corson;unexpected;unexpected;unexpected;LLR;scifi;interpretability;unexpected
+voiture;unexpected;expected;expected;LLR;scifi;interpretability;expected
+qing;unexpected;unexpected;expected;LLR;scifi;interpretability;unexpected
+taël;unexpected;unexpected;expected;LLR;scifi;interpretability;unexpected
+mr;unexpected;expected;unexpected;LLR;scifi;interpretability;unexpected
+jao;unexpected;unexpected;expected;LLR;scifi;interpretability;unexpected
+mari;unexpected;unexpected;expected;LLR;scifi;interpretability;unexpected
+de;unexpected;unexpected;unexpected;LLR;scifi;interpretability;unexpected
+klyd;unexpected;unexpected;expected;LLR;scifi;interpretability;unexpected
+ingold;unexpected;unexpected;expected;LLR;scifi;interpretability;unexpected
+valentine;unexpected;expected;expected;LLR;scifi;interpretability;expected
+soir;unexpected;unexpected;unexpected;LLR;scifi;interpretability;unexpected
+maison;unexpected;expected;expected;LLR;scifi;interpretability;expected
+univers;expected;expected;expected;LLR;scifi;interpretability;expected
+je;narrative form;narrative form;narrative form;LLR;scifi;category;narrative form
+lui;n/o;narrative form;n/o;LLR;scifi;category;n/o
+me;n/o;narrative form;narrative form;LLR;scifi;category;narrative form
+planète;space;space;space;LLR;scifi;category;space
+mon;n/o;narrative form;narrative form;LLR;scifi;category;narrative form
+vaisseau;thematic concept;space;language pattern;LLR;scifi;category;check
+vous;n/o;narrative form;narrative form;LLR;scifi;category;narrative form
+humain;thematic concept;main character;thematic concept;LLR;scifi;category;thematic concept
+monsieur;n/o;tonality;n/o;LLR;scifi;category;n/o
+ender;n/o;n/o;main character;LLR;scifi;category;n/o
+le;n/o;n/o;n/o;LLR;scifi;category;n/o
+valentin;n/o;main character;main character;LLR;scifi;category;main character
+femme;n/o;main character;main character;LLR;scifi;category;main character
+valleroy;n/o;main character;main character;LLR;scifi;category;main character
+elisa;n/o;main character;main character;LLR;scifi;category;main character
+mère;n/o;main character;main character;LLR;scifi;category;main character
+pyanfar;n/o;n/o;main character;LLR;scifi;category;n/o
+terrien;thematic concept;main character;thematic concept;LLR;scifi;category;thematic concept
+écran;language pattern;thematic concept;language pattern;LLR;scifi;category;language pattern
+miro;n/o;n/o;narrative form;LLR;scifi;category;n/o
+système;language pattern;space;thematic concept;LLR;scifi;category;check
+weller;n/o;n/o;n/o;LLR;scifi;category;n/o
+fran;n/o;n/o;main character;LLR;scifi;category;n/o
+copeau;language pattern;n/o;language pattern;LLR;scifi;category;language pattern
+mme;n/o;tonality;n/o;LLR;scifi;category;n/o
+père;n/o;main character;main character;LLR;scifi;category;main character
+louis;n/o;main character;main character;LLR;scifi;category;main character
+cité;n/o;space;space;LLR;scifi;category;space
+chez;n/o;n/o;n/o;LLR;scifi;category;n/o
+mu;n/o;n/o;language pattern;LLR;scifi;category;n/o
+antonin;n/o;main character;main character;LLR;scifi;category;main character
+krug;n/o;n/o;main character;LLR;scifi;category;n/o
+espace;space;space;thematic concept;LLR;scifi;category;space
+moi;n/o;tonality;narrative form;LLR;scifi;category;check
+leur;n/o;narrative form;n/o;LLR;scifi;category;n/o
+paris;n/o;space;space;LLR;scifi;category;space
+corson;n/o;n/o;n/o;LLR;scifi;category;n/o
+voiture;n/o;space;space;LLR;scifi;category;space
+qing;n/o;n/o;main character;LLR;scifi;category;n/o
+taël;n/o;n/o;language pattern;LLR;scifi;category;n/o
+mr;n/o;tonality;n/o;LLR;scifi;category;n/o
+jao;n/o;n/o;main character;LLR;scifi;category;n/o
+mari;n/o;n/o;main character;LLR;scifi;category;n/o
+de;n/o;n/o;n/o;LLR;scifi;category;n/o
+klyd;n/o;n/o;main character;LLR;scifi;category;n/o
+ingold;n/o;n/o;main character;LLR;scifi;category;n/o
+valentine;n/o;main character;main character;LLR;scifi;category;main character
+soir;n/o;n/o;n/o;LLR;scifi;category;n/o
+maison;n/o;space;space;LLR;scifi;category;space
+univers;space;space;thematic concept;LLR;scifi;category;space
+planète;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+humain;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+système;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+vaisseau;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+écran;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+espace;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+surface;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+cerveau;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+utiliser;expected;unexpected;expected;zeta_sd2;scifi;interpretability;expected
+centre;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+niveau;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+univers;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+paroi;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+émettre;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+contrôle;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+base;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+métal;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+centaine;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+sol;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+puissance;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+atteindre;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+masse;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+cité;expected;unexpected;expected;zeta_sd2;scifi;interpretability;expected
+créature;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+membre;expected;unexpected;expected;zeta_sd2;scifi;interpretability;expected
+ordinateur;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+former;expected;unexpected;expected;zeta_sd2;scifi;interpretability;expected
+étoile;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+zone;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+donnée;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+réseau;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+extérieur;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+forme;expected;expected;unexpected;zeta_sd2;scifi;interpretability;expected
+arme;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+spatial;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+créer;unexpected;expected;expected;zeta_sd2;scifi;interpretability;expected
+effectuer;unexpected;unexpected;expected;zeta_sd2;scifi;interpretability;unexpected
+nombreux;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+mètre;expected;unexpected;expected;zeta_sd2;scifi;interpretability;expected
+jaillir;unexpected;unexpected;expected;zeta_sd2;scifi;interpretability;unexpected
+groupe;unexpected;expected;expected;zeta_sd2;scifi;interpretability;expected
+nombre;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+détruire;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+vision;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+constituer;unexpected;unexpected;expected;zeta_sd2;scifi;interpretability;unexpected
+combinaison;unexpected;expected;expected;zeta_sd2;scifi;interpretability;expected
+supérieur;unexpected;expected;expected;zeta_sd2;scifi;interpretability;expected
+moyen;unexpected;expected;expected;zeta_sd2;scifi;interpretability;expected
+complexe;unexpected;expected;expected;zeta_sd2;scifi;interpretability;expected
+millier;expected;expected;expected;zeta_sd2;scifi;interpretability;expected
+planète;space;space;space;zeta_sd2;scifi;category;space
+humain;thematic concept;main character;thematic concept;zeta_sd2;scifi;category;thematic concept
+système;language pattern;space;thematic concept;zeta_sd2;scifi;category;check
+vaisseau;thematic concept;space;language pattern;zeta_sd2;scifi;category;check
+écran;language pattern;thematic concept;language pattern;zeta_sd2;scifi;category;language pattern
+espace;space;space;thematic concept;zeta_sd2;scifi;category;space
+surface;space;space;space;zeta_sd2;scifi;category;space
+cerveau;thematic concept;main character;thematic concept;zeta_sd2;scifi;category;thematic concept
+utiliser;language pattern;n/o;narrative structure;zeta_sd2;scifi;category;check
+centre;language pattern;space;space;zeta_sd2;scifi;category;space
+niveau;language pattern;space;thematic concept;zeta_sd2;scifi;category;check
+univers;space;space;thematic concept;zeta_sd2;scifi;category;space
+paroi;language pattern;space;language pattern;zeta_sd2;scifi;category;language pattern
+émettre;language pattern;thematic concept;thematic concept;zeta_sd2;scifi;category;thematic concept
+contrôle;thematic concept;thematic concept;thematic concept;zeta_sd2;scifi;category;thematic concept
+base;space;space;language pattern;zeta_sd2;scifi;category;space
+métal;language pattern;thematic concept;language pattern;zeta_sd2;scifi;category;language pattern
+centaine;language pattern;thematic concept;tonality;zeta_sd2;scifi;category;check
+sol;space;space;space;zeta_sd2;scifi;category;space
+puissance;thematic concept;thematic concept;thematic concept;zeta_sd2;scifi;category;thematic concept
+atteindre;thematic concept;thematic concept;narrative structure;zeta_sd2;scifi;category;thematic concept
+masse;thematic concept;thematic concept;language pattern;zeta_sd2;scifi;category;thematic concept
+cité;n/o;space;space;zeta_sd2;scifi;category;space
+créature;main character;main character;tonality;zeta_sd2;scifi;category;main character
+membre;n/o;main character;main character;zeta_sd2;scifi;category;main character
+ordinateur;language pattern;thematic concept;language pattern;zeta_sd2;scifi;category;language pattern
+former;language pattern;n/o;narrative structure;zeta_sd2;scifi;category;check
+étoile;space;thematic concept;space;zeta_sd2;scifi;category;space
+zone;space;space;space;zeta_sd2;scifi;category;space
+donnée;thematic concept;thematic concept;language pattern;zeta_sd2;scifi;category;thematic concept
+réseau;language pattern;thematic concept;language pattern;zeta_sd2;scifi;category;language pattern
+extérieur;space;space;space;zeta_sd2;scifi;category;space
+forme;language pattern;thematic concept;n/o;zeta_sd2;scifi;category;check
+arme;thematic concept;thematic concept;thematic concept;zeta_sd2;scifi;category;thematic concept
+spatial;space;space;thematic concept;zeta_sd2;scifi;category;space
+créer;n/o;thematic concept;narrative structure;zeta_sd2;scifi;category;check
+effectuer;n/o;n/o;narrative structure;zeta_sd2;scifi;category;n/o
+nombreux;language pattern;thematic concept;tonality;zeta_sd2;scifi;category;check
+mètre;language pattern;n/o;language pattern;zeta_sd2;scifi;category;language pattern
+jaillir;n/o;n/o;narrative structure;zeta_sd2;scifi;category;n/o
+groupe;n/o;main character;main character;zeta_sd2;scifi;category;main character
+nombre;language pattern;thematic concept;language pattern;zeta_sd2;scifi;category;language pattern
+détruire;thematic concept;thematic concept;thematic concept;zeta_sd2;scifi;category;thematic concept
+vision;thematic concept;thematic concept;narrative form;zeta_sd2;scifi;category;thematic concept
+constituer;n/o;n/o;narrative structure;zeta_sd2;scifi;category;n/o
+combinaison;n/o;thematic concept;narrative structure;zeta_sd2;scifi;category;check
+supérieur;n/o;thematic concept;narrative form;zeta_sd2;scifi;category;check
+moyen;n/o;thematic concept;narrative structure;zeta_sd2;scifi;category;check
+complexe;n/o;thematic concept;thematic concept;zeta_sd2;scifi;category;thematic concept
+millier;language pattern;thematic concept;tonality;zeta_sd2;scifi;category;check
+police;expected;expected;expected;welsh;policier;interpretability;expected
+cela;unexpected;unexpected;unexpected;welsh;policier;interpretability;unexpected
+enquête;expected;expected;expected;welsh;policier;interpretability;expected
+meurtre;expected;expected;expected;welsh;policier;interpretability;expected
+affaire;expected;expected;expected;welsh;policier;interpretability;expected
+flic;expected;expected;expected;welsh;policier;interpretability;expected
+dire;expected;expected;expected;welsh;policier;interpretability;expected
+oui;expected;expected;unexpected;welsh;policier;interpretability;expected
+on;unexpected;expected;unexpected;welsh;policier;interpretability;unexpected
+voiture;expected;unexpected;expected;welsh;policier;interpretability;expected
+coup;expected;expected;expected;welsh;policier;interpretability;expected
+inspecteur;expected;expected;expected;welsh;policier;interpretability;expected
+foutre;expected;expected;expected;welsh;policier;interpretability;expected
+faire;unexpected;unexpected;unexpected;welsh;policier;interpretability;unexpected
+bon;unexpected;unexpected;unexpected;welsh;policier;interpretability;unexpected
+téléphone;expected;unexpected;expected;welsh;policier;interpretability;expected
+crime;expected;expected;expected;welsh;policier;interpretability;expected
+aller;unexpected;unexpected;unexpected;welsh;policier;interpretability;unexpected
+assassin;expected;expected;expected;welsh;policier;interpretability;expected
+mr;unexpected;expected;unexpected;welsh;policier;interpretability;unexpected
+assassiner;expected;expected;expected;welsh;policier;interpretability;expected
+vous;unexpected;expected;expected;welsh;policier;interpretability;expected
+type;expected;expected;expected;welsh;policier;interpretability;expected
+poche;unexpected;unexpected;expected;welsh;policier;interpretability;unexpected
+tuer;expected;expected;expected;welsh;policier;interpretability;expected
+mettre;unexpected;unexpected;unexpected;welsh;policier;interpretability;unexpected
+heure;unexpected;unexpected;expected;welsh;policier;interpretability;unexpected
+pas;unexpected;unexpected;expected;welsh;policier;interpretability;unexpected
+téléphoner;expected;unexpected;expected;welsh;policier;interpretability;expected
+policier;expected;expected;expected;welsh;policier;interpretability;expected
+chez;unexpected;unexpected;unexpected;welsh;policier;interpretability;unexpected
+porte;unexpected;unexpected;expected;welsh;policier;interpretability;unexpected
+bureau;expected;expected;expected;welsh;policier;interpretability;expected
+commissaire;expected;expected;expected;welsh;policier;interpretability;expected
+sortir;unexpected;unexpected;expected;welsh;policier;interpretability;unexpected
+cigarette;unexpected;unexpected;expected;welsh;policier;interpretability;unexpected
+con;expected;expected;expected;welsh;policier;interpretability;expected
+non;unexpected;expected;expected;welsh;policier;interpretability;expected
+journal;unexpected;unexpected;expected;welsh;policier;interpretability;unexpected
+être;unexpected;unexpected;unexpected;welsh;policier;interpretability;unexpected
+je;expected;expected;expected;welsh;policier;interpretability;expected
+petit;unexpected;unexpected;expected;welsh;policier;interpretability;unexpected
+quoi;unexpected;expected;unexpected;welsh;policier;interpretability;unexpected
+truc;expected;expected;expected;welsh;policier;interpretability;expected
+merde;expected;expected;expected;welsh;policier;interpretability;expected
+ah;expected;expected;expected;welsh;policier;interpretability;expected
+tirer;expected;expected;expected;welsh;policier;interpretability;expected
+deux;unexpected;unexpected;expected;welsh;policier;interpretability;unexpected
+bien;unexpected;unexpected;expected;welsh;policier;interpretability;unexpected
+entrer;unexpected;unexpected;expected;welsh;policier;interpretability;unexpected
+police;main character;main character;thematic concept;welsh;policier;category;main character
+cela;n/o;n/o;n/o;welsh;policier;category;n/o
+enquête;narrative form;thematic concept;thematic concept;welsh;policier;category;thematic concept
+meurtre;thematic concept;thematic concept;thematic concept;welsh;policier;category;thematic concept
+affaire;thematic concept;thematic concept;thematic concept;welsh;policier;category;thematic concept
+flic;language pattern;language pattern;language pattern;welsh;policier;category;language pattern
+dire;language pattern;language pattern;narrative structure;welsh;policier;category;language pattern
+oui;language pattern;language pattern;n/o;welsh;policier;category;language pattern
+on;n/o;narrative form;n/o;welsh;policier;category;n/o
+voiture;space;n/o;space;welsh;policier;category;space
+coup;thematic concept;thematic concept;thematic concept;welsh;policier;category;thematic concept
+inspecteur;main character;main character;main character;welsh;policier;category;main character
+foutre;language pattern;language pattern;language pattern;welsh;policier;category;language pattern
+faire;n/o;n/o;n/o;welsh;policier;category;n/o
+bon;n/o;n/o;n/o;welsh;policier;category;n/o
+téléphone;narrative structure;n/o;narrative structure;welsh;policier;category;narrative structure
+crime;thematic concept;thematic concept;thematic concept;welsh;policier;category;thematic concept
+aller;n/o;n/o;n/o;welsh;policier;category;n/o
+assassin;main character;thematic concept;main character;welsh;policier;category;main character
+mr;n/o;language pattern;language pattern;welsh;policier;category;language pattern
+assassiner;thematic concept;thematic concept;thematic concept;welsh;policier;category;thematic concept
+vous;n/o;narrative form;language pattern;welsh;policier;category;check
+type;language pattern;language pattern;language pattern;welsh;policier;category;language pattern
+poche;n/o;n/o;narrative structure;welsh;policier;category;n/o
+tuer;thematic concept;thematic concept;thematic concept;welsh;policier;category;thematic concept
+mettre;n/o;n/o;n/o;welsh;policier;category;n/o
+heure;n/o;n/o;narrative structure;welsh;policier;category;n/o
+pas;n/o;n/o;tonality;welsh;policier;category;n/o
+téléphoner;narrative structure;n/o;narrative structure;welsh;policier;category;narrative structure
+policier;main character;main character;main character;welsh;policier;category;main character
+chez;n/o;n/o;n/o;welsh;policier;category;n/o
+porte;n/o;n/o;narrative structure;welsh;policier;category;n/o
+bureau;space;space;space;welsh;policier;category;space
+commissaire;main character;main character;main character;welsh;policier;category;main character
+sortir;n/o;n/o;narrative structure;welsh;policier;category;n/o
+cigarette;n/o;n/o;narrative structure;welsh;policier;category;n/o
+con;language pattern;language pattern;tonality;welsh;policier;category;language pattern
+non;n/o;language pattern;tonality;welsh;policier;category;check
+journal;n/o;n/o;thematic concept;welsh;policier;category;n/o
+être;n/o;n/o;n/o;welsh;policier;category;n/o
+je;narrative form;narrative form;narrative form;welsh;policier;category;narrative form
+petit;n/o;n/o;narrative structure;welsh;policier;category;n/o
+quoi;n/o;language pattern;n/o;welsh;policier;category;n/o
+truc;language pattern;language pattern;language pattern;welsh;policier;category;language pattern
+merde;language pattern;language pattern;language pattern;welsh;policier;category;language pattern
+ah;language pattern;language pattern;narrative form;welsh;policier;category;language pattern
+tirer;thematic concept;thematic concept;thematic concept;welsh;policier;category;thematic concept
+deux;n/o;n/o;narrative structure;welsh;policier;category;n/o
+bien;n/o;n/o;tonality;welsh;policier;category;n/o
+entrer;n/o;n/o;narrative structure;welsh;policier;category;n/o
+mr;unexpected;expected;expected;LLR;policier;interpretability;expected
+je;expected;expected;expected;LLR;policier;interpretability;expected
+vous;unexpected;expected;expected;LLR;policier;interpretability;expected
+inspecteur;expected;expected;expected;LLR;policier;interpretability;expected
+commissaire;expected;expected;expected;LLR;policier;interpretability;expected
+cela;unexpected;unexpected;unexpected;LLR;policier;interpretability;unexpected
+yudel;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+dire;expected;expected;expected;LLR;policier;interpretability;expected
+police;expected;expected;expected;LLR;policier;interpretability;expected
+flic;expected;expected;expected;LLR;policier;interpretability;expected
+mathias;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+leur;unexpected;expected;unexpected;LLR;policier;interpretability;unexpected
+méry;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+miss;unexpected;expected;expected;LLR;policier;interpretability;expected
+on;unexpected;expected;unexpected;LLR;policier;interpretability;unexpected
+cadin;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+mrs;unexpected;expected;expected;LLR;policier;interpretability;expected
+meurtre;expected;expected;expected;LLR;policier;interpretability;expected
+wexford;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+de;unexpected;unexpected;unexpected;LLR;policier;interpretability;unexpected
+lui;unexpected;expected;unexpected;LLR;policier;interpretability;unexpected
+christaine;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+dave;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+aina;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+nigel;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+assassin;expected;expected;expected;LLR;policier;interpretability;expected
+voiture;expected;expected;expected;LLR;policier;interpretability;expected
+samantha;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+marc;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+laviolette;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+louis;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+raoul;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+sern;unexpected;unexpected;unexpected;LLR;policier;interpretability;unexpected
+me;unexpected;expected;expected;LLR;policier;interpretability;expected
+enquête;expected;expected;expected;LLR;policier;interpretability;expected
+policier;expected;expected;expected;LLR;policier;interpretability;expected
+son;unexpected;expected;unexpected;LLR;policier;interpretability;unexpected
+crime;expected;expected;expected;LLR;policier;interpretability;expected
+step;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+dana;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+mec;expected;expected;expected;LLR;policier;interpretability;expected
+nous;unexpected;expected;expected;LLR;policier;interpretability;expected
+gardella;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+sophia;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+planète;unexpected;unexpected;unexpected;LLR;policier;interpretability;unexpected
+julia;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+shérif;expected;expected;expected;LLR;policier;interpretability;expected
+marthe;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+sergent;expected;expected;expected;LLR;policier;interpretability;expected
+séréna;unexpected;unexpected;expected;LLR;policier;interpretability;unexpected
+mr;n/o;language pattern;language pattern;LLR;policier;category;language pattern
+je;narrative form;narrative form;narrative form;LLR;policier;category;narrative form
+vous;n/o;narrative form;language pattern;LLR;policier;category;check
+inspecteur;main character;main character;main character;LLR;policier;category;main character
+commissaire;main character;main character;main character;LLR;policier;category;main character
+cela;n/o;n/o;n/o;LLR;policier;category;n/o
+yudel;n/o;n/o;main character;LLR;policier;category;n/o
+dire;language pattern;language pattern;narrative structure;LLR;policier;category;language pattern
+police;main character;main character;thematic concept;LLR;policier;category;main character
+flic;language pattern;language pattern;language pattern;LLR;policier;category;language pattern
+mathias;n/o;n/o;main character;LLR;policier;category;n/o
+leur;n/o;narrative form;n/o;LLR;policier;category;n/o
+méry;n/o;n/o;main character;LLR;policier;category;n/o
+miss;n/o;language pattern;language pattern;LLR;policier;category;language pattern
+on;n/o;narrative form;n/o;LLR;policier;category;n/o
+cadin;n/o;n/o;main character;LLR;policier;category;n/o
+mrs;n/o;language pattern;language pattern;LLR;policier;category;language pattern
+meurtre;thematic concept;thematic concept;thematic concept;LLR;policier;category;thematic concept
+wexford;n/o;n/o;main character;LLR;policier;category;n/o
+de;n/o;n/o;n/o;LLR;policier;category;n/o
+lui;n/o;narrative form;n/o;LLR;policier;category;n/o
+christaine;n/o;n/o;main character;LLR;policier;category;n/o
+dave;n/o;n/o;main character;LLR;policier;category;n/o
+aina;n/o;n/o;main character;LLR;policier;category;n/o
+nigel;n/o;n/o;main character;LLR;policier;category;n/o
+assassin;main character;thematic concept;main character;LLR;policier;category;main character
+voiture;space;space;space;LLR;policier;category;space
+samantha;n/o;n/o;main character;LLR;policier;category;n/o
+marc;n/o;n/o;main character;LLR;policier;category;n/o
+laviolette;n/o;n/o;main character;LLR;policier;category;n/o
+louis;n/o;n/o;main character;LLR;policier;category;n/o
+raoul;n/o;n/o;main character;LLR;policier;category;n/o
+sern;n/o;n/o;n/o;LLR;policier;category;n/o
+me;n/o;narrative form;narrative form;LLR;policier;category;narrative form
+enquête;narrative form;thematic concept;thematic concept;LLR;policier;category;thematic concept
+policier;main character;main character;main character;LLR;policier;category;main character
+son;n/o;narrative form;n/o;LLR;policier;category;n/o
+crime;thematic concept;thematic concept;thematic concept;LLR;policier;category;thematic concept
+step;n/o;n/o;space;LLR;policier;category;n/o
+dana;n/o;n/o;main character;LLR;policier;category;n/o
+mec;language pattern;language pattern;language pattern;LLR;policier;category;language pattern
+nous;n/o;narrative form;language pattern;LLR;policier;category;check
+gardella;n/o;n/o;main character;LLR;policier;category;n/o
+sophia;n/o;n/o;main character;LLR;policier;category;n/o
+planète;n/o;n/o;n/o;LLR;policier;category;n/o
+julia;n/o;n/o;main character;LLR;policier;category;n/o
+shérif;main character;main character;main character;LLR;policier;category;main character
+marthe;n/o;n/o;main character;LLR;policier;category;n/o
+sergent;main character;main character;main character;LLR;policier;category;main character
+séréna;n/o;n/o;main character;LLR;policier;category;n/o
+police;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+flic;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+enquête;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+meurtre;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+inspecteur;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+policier;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+téléphone;expected;unexpected;expected;zeta_sd2;policier;interpretability;expected
+assassin;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+mr;unexpected;expected;expected;zeta_sd2;policier;interpretability;expected
+commissaire;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+voiture;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+foutre;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+crime;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+cigarette;unexpected;unexpected;expected;zeta_sd2;policier;interpretability;unexpected
+téléphoner;unexpected;expected;expected;zeta_sd2;policier;interpretability;expected
+type;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+journal;unexpected;unexpected;expected;zeta_sd2;policier;interpretability;unexpected
+gars;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+assassiner;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+bureau;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+mec;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+affaire;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+con;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+truc;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+poche;unexpected;expected;expected;zeta_sd2;policier;interpretability;expected
+numéro;unexpected;expected;expected;zeta_sd2;policier;interpretability;expected
+tuer;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+merde;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+monsieur;unexpected;expected;unexpected;zeta_sd2;policier;interpretability;unexpected
+mrs;unexpected;expected;expected;zeta_sd2;policier;interpretability;expected
+client;unexpected;expected;expected;zeta_sd2;policier;interpretability;expected
+hein;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+patron;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+copain;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+renseignement;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+boulot;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+rue;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+gueule;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+payer;unexpected;expected;expected;zeta_sd2;policier;interpretability;expected
+garer;expected;unexpected;expected;zeta_sd2;policier;interpretability;expected
+victime;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+papier;expected;unexpected;expected;zeta_sd2;policier;interpretability;expected
+môme;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+bar;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+suspect;expected;expected;expected;zeta_sd2;policier;interpretability;expected
+dossier;expected;unexpected;expected;zeta_sd2;policier;interpretability;expected
+chaise;expected;unexpected;unexpected;zeta_sd2;policier;interpretability;unexpected
+adresse;expected;unexpected;expected;zeta_sd2;policier;interpretability;expected
+bière;unexpected;unexpected;unexpected;zeta_sd2;policier;interpretability;unexpected
+bouteille;unexpected;unexpected;unexpected;zeta_sd2;policier;interpretability;unexpected
+police;main character;main character;thematic concept;zeta_sd2;policier;category;main character
+flic;language pattern;language pattern;language pattern;zeta_sd2;policier;category;language pattern
+enquête;narrative structure;thematic concept;thematic concept;zeta_sd2;policier;category;thematic concept
+meurtre;thematic concept;thematic concept;thematic concept;zeta_sd2;policier;category;thematic concept
+inspecteur;main character;main character;main character;zeta_sd2;policier;category;main character
+policier;main character;main character;main character;zeta_sd2;policier;category;main character
+téléphone;narrative structure;n/o;narrative structure;zeta_sd2;policier;category;narrative structure
+assassin;main character;main character;main character;zeta_sd2;policier;category;main character
+mr;n/o;language pattern;language pattern;zeta_sd2;policier;category;language pattern
+commissaire;main character;main character;main character;zeta_sd2;policier;category;main character
+voiture;space;space;space;zeta_sd2;policier;category;space
+foutre;language pattern;language pattern;language pattern;zeta_sd2;policier;category;language pattern
+crime;thematic concept;thematic concept;thematic concept;zeta_sd2;policier;category;thematic concept
+cigarette;n/o;n/o;narrative structure;zeta_sd2;policier;category;n/o
+téléphoner;narrative structure;n/o;narrative structure;zeta_sd2;policier;category;narrative structure
+type;language pattern;language pattern;language pattern;zeta_sd2;policier;category;language pattern
+journal;n/o;n/o;thematic concept;zeta_sd2;policier;category;n/o
+gars;language pattern;language pattern;language pattern;zeta_sd2;policier;category;language pattern
+assassiner;thematic concept;thematic concept;thematic concept;zeta_sd2;policier;category;thematic concept
+bureau;space;space;space;zeta_sd2;policier;category;space
+mec;language pattern;language pattern;language pattern;zeta_sd2;policier;category;language pattern
+affaire;thematic concept;thematic concept;thematic concept;zeta_sd2;policier;category;thematic concept
+con;language pattern;language pattern;Tonality;zeta_sd2;policier;category;language pattern
+truc;language pattern;language pattern;language pattern;zeta_sd2;policier;category;language pattern
+poche;n/o;space;narrative structure;zeta_sd2;policier;category;check
+numéro;n/o;thematic concept;narrative structure;zeta_sd2;policier;category;check
+tuer;thematic concept;thematic concept;thematic concept;zeta_sd2;policier;category;thematic concept
+merde;language pattern;language pattern;language pattern;zeta_sd2;policier;category;language pattern
+monsieur;n/o;language pattern;n/o;zeta_sd2;policier;category;n/o
+mrs;n/o;language pattern;language pattern;zeta_sd2;policier;category;language pattern
+client;n/o;main character;main character;zeta_sd2;policier;category;main character
+hein;language pattern;language pattern;language pattern;zeta_sd2;policier;category;language pattern
+patron;main character;main character;main character;zeta_sd2;policier;category;main character
+copain;language pattern;language pattern;main character;zeta_sd2;policier;category;language pattern
+renseignement;narrative structure;thematic concept;narrative structure;zeta_sd2;policier;category;narrative structure
+boulot;language pattern;language pattern;language pattern;zeta_sd2;policier;category;language pattern
+rue;space;space;space;zeta_sd2;policier;category;space
+gueule;language pattern;language pattern;language pattern;zeta_sd2;policier;category;language pattern
+payer;n/o;thematic concept;narrative structure;zeta_sd2;policier;category;check
+garer;space;n/o;narrative structure;zeta_sd2;policier;category;check
+victime;main character;thematic concept;main character;zeta_sd2;policier;category;main character
+papier;narrative structure;n/o;narrative structure;zeta_sd2;policier;category;narrative structure
+môme;language pattern;language pattern;language pattern;zeta_sd2;policier;category;language pattern
+bar;space;space;space;zeta_sd2;policier;category;space
+suspect;main character;thematic concept;thematic concept;zeta_sd2;policier;category;thematic concept
+dossier;narrative structure;n/o;thematic concept;zeta_sd2;policier;category;check
+chaise;space;n/o;n/o;zeta_sd2;policier;category;n/o
+adresse;narrative structure;n/o;narrative structure;zeta_sd2;policier;category;narrative structure
+bière;n/o;n/o;n/o;zeta_sd2;policier;category;n/o
+bouteille;n/o;n/o;n/o;zeta_sd2;policier;category;n/o
+lui;unexpected;expected;unexpected;welsh;sentimental;interpretability;unexpected
+son;unexpected;expected;expected;welsh;sentimental;interpretability;expected
+sourire;expected;expected;expected;welsh;sentimental;interpretability;expected
+murmurer;expected;expected;expected;welsh;sentimental;interpretability;expected
+regard;expected;expected;expected;welsh;sentimental;interpretability;expected
+jeune;expected;expected;expected;welsh;sentimental;interpretability;expected
+ne;unexpected;unexpected;unexpected;welsh;sentimental;interpretability;unexpected
+répondre;expected;expected;expected;welsh;sentimental;interpretability;expected
+merci;expected;expected;expected;welsh;sentimental;interpretability;expected
+vous;unexpected;expected;expected;welsh;sentimental;interpretability;expected
+lèvre;expected;expected;expected;welsh;sentimental;interpretability;expected
+aimer;expected;expected;expected;welsh;sentimental;interpretability;expected
+se;unexpected;unexpected;unexpected;welsh;sentimental;interpretability;unexpected
+oeil;expected;expected;expected;welsh;sentimental;interpretability;expected
+femme;expected;expected;expected;welsh;sentimental;interpretability;expected
+baiser;expected;expected;expected;welsh;sentimental;interpretability;expected
+soudain;expected;expected;expected;welsh;sentimental;interpretability;expected
+oh;expected;expected;expected;welsh;sentimental;interpretability;expected
+pourquoi;expected;expected;expected;welsh;sentimental;interpretability;expected
+cœur;expected;expected;expected;welsh;sentimental;interpretability;expected
+espérer;expected;expected;expected;welsh;sentimental;interpretability;expected
+vouloir;expected;expected;expected;welsh;sentimental;interpretability;expected
+embrasser;expected;expected;expected;welsh;sentimental;interpretability;expected
+si;unexpected;expected;expected;welsh;sentimental;interpretability;expected
+demander;expected;expected;expected;welsh;sentimental;interpretability;expected
+heureux;expected;expected;expected;welsh;sentimental;interpretability;expected
+désolé;expected;expected;expected;welsh;sentimental;interpretability;expected
+pas;unexpected;unexpected;expected;welsh;sentimental;interpretability;unexpected
+soupir;expected;expected;expected;welsh;sentimental;interpretability;expected
+serrer;expected;expected;expected;welsh;sentimental;interpretability;expected
+bras;expected;expected;expected;welsh;sentimental;interpretability;expected
+ajouter;expected;expected;expected;welsh;sentimental;interpretability;expected
+votre;unexpected;expected;expected;welsh;sentimental;interpretability;expected
+dîner;unexpected;expected;expected;welsh;sentimental;interpretability;expected
+bouleverser;expected;expected;expected;welsh;sentimental;interpretability;expected
+insister;expected;expected;expected;welsh;sentimental;interpretability;expected
+protester;expected;expected;expected;welsh;sentimental;interpretability;expected
+ravir;expected;expected;expected;welsh;sentimental;interpretability;expected
+croire;expected;expected;expected;welsh;sentimental;interpretability;expected
+colère;expected;expected;expected;welsh;sentimental;interpretability;expected
+songer;expected;expected;expected;welsh;sentimental;interpretability;expected
+prendre;unexpected;expected;expected;welsh;sentimental;interpretability;expected
+soupirer;expected;expected;expected;welsh;sentimental;interpretability;expected
+exclamer;expected;expected;expected;welsh;sentimental;interpretability;expected
+promettre;expected;expected;expected;welsh;sentimental;interpretability;expected
+voix;expected;expected;expected;welsh;sentimental;interpretability;expected
+devoir;expected;expected;expected;welsh;sentimental;interpretability;expected
+épaule;expected;expected;expected;welsh;sentimental;interpretability;expected
+oublier;expected;expected;expected;welsh;sentimental;interpretability;expected
+brusquement;expected;expected;expected;welsh;sentimental;interpretability;expected
+lui;n/o;narrative form;n/o;welsh;sentimental;category;n/o
+son;n/o;narrative form;language pattern;welsh;sentimental;category;check
+sourire;tonality;language pattern;narrative structure;welsh;sentimental;category;check
+murmurer;thematic concept;language pattern;narrative form;welsh;sentimental;category;check
+regard;thematic concept;language pattern;language pattern;welsh;sentimental;category;language pattern
+jeune;main character;main character;main character;welsh;sentimental;category;main character
+ne;n/o;n/o;n/o;welsh;sentimental;category;n/o
+répondre;narrative form;language pattern;narrative form;welsh;sentimental;category;narrative form
+merci;narrative form;narrative form;language pattern;welsh;sentimental;category;narrative form
+vous;n/o;narrative form;narrative form;welsh;sentimental;category;narrative form
+lèvre;thematic concept;language pattern;language pattern;welsh;sentimental;category;language pattern
+aimer;thematic concept;thematic concept;thematic concept;welsh;sentimental;category;thematic concept
+se;n/o;n/o;n/o;welsh;sentimental;category;n/o
+oeil;thematic concept;language pattern;language pattern;welsh;sentimental;category;language pattern
+femme;main character;main character;main character;welsh;sentimental;category;main character
+baiser;thematic concept;thematic concept;thematic concept;welsh;sentimental;category;thematic concept
+soudain;narrative structure;tonality;narrative structure;welsh;sentimental;category;narrative structure
+oh;narrative form;narrative form;language pattern;welsh;sentimental;category;narrative form
+pourquoi;narrative form;narrative form;tonality;welsh;sentimental;category;narrative form
+cœur;thematic concept;thematic concept;thematic concept;welsh;sentimental;category;thematic concept
+espérer;narrative form;language pattern;tonality;welsh;sentimental;category;check
+vouloir;narrative form;thematic concept;thematic concept;welsh;sentimental;category;thematic concept
+embrasser;tonality;thematic concept;narrative structure;welsh;sentimental;category;check
+si;n/o;narrative form;language pattern;welsh;sentimental;category;check
+demander;narrative form;narrative form;narrative form;welsh;sentimental;category;narrative form
+heureux;tonality;thematic concept;thematic concept;welsh;sentimental;category;thematic concept
+désolé;narrative form;narrative form;tonality;welsh;sentimental;category;narrative form
+pas;n/o;n/o;language pattern;welsh;sentimental;category;n/o
+soupir;thematic concept;language pattern;language pattern;welsh;sentimental;category;language pattern
+serrer;thematic concept;thematic concept;narrative structure;welsh;sentimental;category;thematic concept
+bras;thematic concept;thematic concept;language pattern;welsh;sentimental;category;thematic concept
+ajouter;narrative form;language pattern;narrative form;welsh;sentimental;category;narrative form
+votre;n/o;narrative form;narrative form;welsh;sentimental;category;narrative form
+dîner;n/o;space;space;welsh;sentimental;category;space
+bouleverser;tonality;language pattern;narrative structure;welsh;sentimental;category;check
+insister;narrative form;language pattern;narrative form;welsh;sentimental;category;narrative form
+protester;narrative form;language pattern;narrative structure;welsh;sentimental;category;check
+ravir;language pattern;thematic concept;narrative structure;welsh;sentimental;category;check
+croire;narrative form;language pattern;tonality;welsh;sentimental;category;check
+colère;tonality;thematic concept;thematic concept;welsh;sentimental;category;thematic concept
+songer;narrative form;language pattern;tonality;welsh;sentimental;category;check
+prendre;n/o;language pattern;narrative structure;welsh;sentimental;category;check
+soupirer;thematic concept;language pattern;language pattern;welsh;sentimental;category;language pattern
+exclamer;narrative form;language pattern;narrative form;welsh;sentimental;category;narrative form
+promettre;narrative form;language pattern;language pattern;welsh;sentimental;category;language pattern
+voix;tonality;tonality;language pattern;welsh;sentimental;category;tonality
+devoir;thematic concept;thematic concept;thematic concept;welsh;sentimental;category;thematic concept
+épaule;thematic concept;thematic concept;language pattern;welsh;sentimental;category;thematic concept
+oublier;thematic concept;language pattern;narrative structure;welsh;sentimental;category;check
+brusquement;narrative structure;tonality;narrative structure;welsh;sentimental;category;narrative structure
+lui;unexpected;expected;unexpected;LLR;sentimental;interpretability;unexpected
+vous;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+son;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+on;unexpected;expected;unexpected;LLR;sentimental;interpretability;unexpected
+le;unexpected;unexpected;unexpected;LLR;sentimental;interpretability;unexpected
+jeune;expected;expected;expected;LLR;sentimental;interpretability;expected
+kelly;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+marina;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+de;unexpected;unexpected;unexpected;LLR;sentimental;interpretability;unexpected
+tu;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+jed;unexpected;unexpected;expected;LLR;sentimental;interpretability;unexpected
+tia;unexpected;unexpected;expected;LLR;sentimental;interpretability;unexpected
+angie;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+alex;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+catlin;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+sean;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+sourire;expected;expected;expected;LLR;sentimental;interpretability;expected
+ou;unexpected;unexpected;expected;LLR;sentimental;interpretability;unexpected
+murmurer;expected;expected;expected;LLR;sentimental;interpretability;expected
+rebecca;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+femme;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+jenna;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+lauren;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+regard;expected;expected;expected;LLR;sentimental;interpretability;expected
+bethany;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+se;unexpected;unexpected;unexpected;LLR;sentimental;interpretability;unexpected
+lindsay;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+kayla;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+thyra;unexpected;unexpected;expected;LLR;sentimental;interpretability;unexpected
+meg;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+bonnie;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+ne;unexpected;unexpected;unexpected;LLR;sentimental;interpretability;unexpected
+christian;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+vickie;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+votre;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+jennie;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+federico;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+sammel;unexpected;unexpected;expected;LLR;sentimental;interpretability;unexpected
+hank;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+clay;unexpected;unexpected;expected;LLR;sentimental;interpretability;unexpected
+qui;unexpected;unexpected;unexpected;LLR;sentimental;interpretability;unexpected
+judy;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+leur;unexpected;expected;unexpected;LLR;sentimental;interpretability;unexpected
+senta;unexpected;unexpected;expected;LLR;sentimental;interpretability;unexpected
+victoria;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+erin;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+christopher;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+julien;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+te;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+miranda;unexpected;expected;expected;LLR;sentimental;interpretability;expected
+lui;n/o;narrative form;n/o;LLR;sentimental;category;n/o
+vous;n/o;narrative form;narrative form;LLR;sentimental;category;narrative form
+son;n/o;narrative form;language pattern;LLR;sentimental;category;check
+on;n/o;narrative form;n/o;LLR;sentimental;category;n/o
+le;n/o;n/o;n/o;LLR;sentimental;category;n/o
+jeune;main character;main character;main character;LLR;sentimental;category;main character
+kelly;n/o;main character;main character;LLR;sentimental;category;main character
+marina;n/o;main character;main character;LLR;sentimental;category;main character
+de;n/o;n/o;n/o;LLR;sentimental;category;n/o
+tu;n/o;narrative form;narrative form;LLR;sentimental;category;narrative form
+jed;n/o;n/o;main character;LLR;sentimental;category;n/o
+tia;n/o;n/o;main character;LLR;sentimental;category;n/o
+angie;n/o;main character;main character;LLR;sentimental;category;main character
+alex;n/o;main character;main character;LLR;sentimental;category;main character
+catlin;n/o;main character;main character;LLR;sentimental;category;main character
+sean;n/o;main character;main character;LLR;sentimental;category;main character
+sourire;tonality;language pattern;narrative structure;LLR;sentimental;category;check
+ou;n/o;n/o;tonality;LLR;sentimental;category;n/o
+murmurer;thematic concept;thematic concept;narrative form;LLR;sentimental;category;thematic concept
+rebecca;n/o;main character;main character;LLR;sentimental;category;main character
+femme;n/o;main character;main character;LLR;sentimental;category;main character
+jenna;n/o;main character;main character;LLR;sentimental;category;main character
+lauren;n/o;main character;main character;LLR;sentimental;category;main character
+regard;thematic concept;language pattern;language pattern;LLR;sentimental;category;language pattern
+bethany;n/o;main character;main character;LLR;sentimental;category;main character
+se;n/o;n/o;n/o;LLR;sentimental;category;n/o
+lindsay;n/o;main character;main character;LLR;sentimental;category;main character
+kayla;n/o;main character;main character;LLR;sentimental;category;main character
+thyra;n/o;n/o;main character;LLR;sentimental;category;n/o
+meg;n/o;main character;main character;LLR;sentimental;category;main character
+bonnie;n/o;main character;main character;LLR;sentimental;category;main character
+ne;n/o;n/o;n/o;LLR;sentimental;category;n/o
+christian;n/o;main character;main character;LLR;sentimental;category;main character
+vickie;n/o;main character;main character;LLR;sentimental;category;main character
+votre;n/o;narrative form;narrative form;LLR;sentimental;category;narrative form
+jennie;n/o;main character;main character;LLR;sentimental;category;main character
+federico;n/o;main character;main character;LLR;sentimental;category;main character
+sammel;n/o;n/o;main character;LLR;sentimental;category;n/o
+hank;n/o;main character;main character;LLR;sentimental;category;main character
+clay;n/o;n/o;main character;LLR;sentimental;category;n/o
+qui;n/o;n/o;n/o;LLR;sentimental;category;n/o
+judy;n/o;main character;main character;LLR;sentimental;category;main character
+leur;n/o;narrative form;n/o;LLR;sentimental;category;n/o
+senta;n/o;n/o;main character;LLR;sentimental;category;n/o
+victoria;n/o;main character;main character;LLR;sentimental;category;main character
+erin;n/o;main character;main character;LLR;sentimental;category;main character
+christopher;n/o;main character;main character;LLR;sentimental;category;main character
+julien;n/o;main character;main character;LLR;sentimental;category;main character
+te;n/o;narrative form;narrative form;LLR;sentimental;category;narrative form
+miranda;n/o;main character;main character;LLR;sentimental;category;main character
+baiser;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+murmurer;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+embrasser;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+merci;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+oh;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+désolé;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+chéri;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+dîner;unexpected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+protester;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+soupir;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+mademoiselle;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+exclamer;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+ravir;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+soupirer;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+bouleverser;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+colère;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+répliquer;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+insister;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+amoureux;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+épouser;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+désir;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+promettre;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+songer;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+merveilleux;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+heureux;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+mariage;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+surprise;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+sienne;unexpected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+déjeuner;unexpected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+espérer;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+regretter;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+séduisant;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+sourcil;unexpected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+certainement;unexpected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+brusquement;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+émotion;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+déclarer;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+amour;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+charmant;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+remercier;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+sursauter;unexpected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+ravissant;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+lèvre;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+attirer;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+tremblant;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+sentiment;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+charme;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+prier;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+amie;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+caresser;expected;expected;expected;zeta_sd2;sentimental;interpretability;expected
+baiser;thematic concept;thematic concept;thematic concept;zeta_sd2;sentimental;category;thematic concept
+murmurer;thematic concept;language pattern;narrative form;zeta_sd2;sentimental;category;check
+embrasser;tonality;thematic concept;narrative structure;zeta_sd2;sentimental;category;check
+merci;narrative form;narrative form;language pattern;zeta_sd2;sentimental;category;narrative form
+oh;narrative form;narrative form;language pattern;zeta_sd2;sentimental;category;narrative form
+désolé;narrative form;narrative form;tonality;zeta_sd2;sentimental;category;narrative form
+chéri;thematic concept;narrative form;language pattern;zeta_sd2;sentimental;category;check
+dîner;n/o;space;space;zeta_sd2;sentimental;category;space
+protester;narrative form;language pattern;narrative structure;zeta_sd2;sentimental;category;check
+soupir;thematic concept;language pattern;language pattern;zeta_sd2;sentimental;category;language pattern
+mademoiselle;main character;narrative form;main character;zeta_sd2;sentimental;category;main character
+exclamer;narrative form;language pattern;narrative form;zeta_sd2;sentimental;category;narrative form
+ravir;tonality;thematic concept;narrative structure;zeta_sd2;sentimental;category;check
+soupirer;thematic concept;language pattern;language pattern;zeta_sd2;sentimental;category;language pattern
+bouleverser;tonality;language pattern;narrative structure;zeta_sd2;sentimental;category;check
+colère;thematic concept;thematic concept;thematic concept;zeta_sd2;sentimental;category;thematic concept
+répliquer;narrative form;language pattern;narrative form;zeta_sd2;sentimental;category;narrative form
+insister;narrative form;language pattern;narrative form;zeta_sd2;sentimental;category;narrative form
+amoureux;thematic concept;thematic concept;thematic concept;zeta_sd2;sentimental;category;thematic concept
+épouser;narrative structure;thematic concept;narrative structure;zeta_sd2;sentimental;category;narrative structure
+désir;thematic concept;thematic concept;thematic concept;zeta_sd2;sentimental;category;thematic concept
+promettre;narrative form;language pattern;language pattern;zeta_sd2;sentimental;category;language pattern
+songer;narrative form;language pattern;tonality;zeta_sd2;sentimental;category;check
+merveilleux;language pattern;tonality;language pattern;zeta_sd2;sentimental;category;language pattern
+heureux;tonality;thematic concept;thematic concept;zeta_sd2;sentimental;category;thematic concept
+mariage;narrative structure;thematic concept;thematic concept;zeta_sd2;sentimental;category;thematic concept
+surprise;narrative structure;thematic concept;narrative structure;zeta_sd2;sentimental;category;narrative structure
+sienne;n/o;narrative form;language pattern;zeta_sd2;sentimental;category;check
+déjeuner;n/o;space;space;zeta_sd2;sentimental;category;space
+espérer;narrative form;language pattern;tonality;zeta_sd2;sentimental;category;check
+regretter;narrative form;language pattern;tonality;zeta_sd2;sentimental;category;check
+séduisant;thematic concept;main character;language pattern;zeta_sd2;sentimental;category;check
+sourcil;n/o;language pattern;language pattern;zeta_sd2;sentimental;category;language pattern
+certainement;n/o;language pattern;language pattern;zeta_sd2;sentimental;category;language pattern
+brusquement;narrative structure;language pattern;narrative structure;zeta_sd2;sentimental;category;narrative structure
+émotion;tonality;thematic concept;thematic concept;zeta_sd2;sentimental;category;thematic concept
+déclarer;narrative form;language pattern;narrative form;zeta_sd2;sentimental;category;narrative form
+amour;thematic concept;thematic concept;thematic concept;zeta_sd2;sentimental;category;thematic concept
+charmant;language pattern;main character;language pattern;zeta_sd2;sentimental;category;language pattern
+remercier;narrative form;language pattern;language pattern;zeta_sd2;sentimental;category;language pattern
+sursauter;n/o;language pattern;narrative structure;zeta_sd2;sentimental;category;check
+ravissant;language pattern;main character;language pattern;zeta_sd2;sentimental;category;language pattern
+lèvre;thematic concept;language pattern;language pattern;zeta_sd2;sentimental;category;language pattern
+attirer;thematic concept;language pattern;narrative structure;zeta_sd2;sentimental;category;check
+tremblant;tonality;language pattern;tonality;zeta_sd2;sentimental;category;tonality
+sentiment;tonality;thematic concept;thematic concept;zeta_sd2;sentimental;category;thematic concept
+charme;language pattern;thematic concept;tonality;zeta_sd2;sentimental;category;check
+prier;narrative form;language pattern;language pattern;zeta_sd2;sentimental;category;language pattern
+amie;main character;main character;main character;zeta_sd2;sentimental;category;main character
+caresser;thematic concept;language pattern;narrative structure;zeta_sd2;sentimental;category;check

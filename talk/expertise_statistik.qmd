@@ -1,0 +1,281 @@
+---
+title: "Qualitative Genre-Profile und distinktive Wörter"
+subtitle: "Eine Studie zu Keyness in Subgenres des französischen Romans"
+author:
+  - name: "J. Röttgermann"
+    affiliation: "Trier Center for Digital Humanities"
+    orcid: "https://orcid.org/0000-0002-1918-8117"
+  - name: "K. Du"
+    affiliation: "Trier Center for Digital Humanities"
+    orcid: "https://orcid.org/0000-0001-7800-0682"
+  - name: "C. Schöch"
+    affiliation: "Trier Center for Digital Humanities"
+    orcid: "https://orcid.org/0000-0002-4557-2753"
+date: "05.03.2025"
+conference: "Jahrestagung der Digital Humanities 2025"
+url: "https://zeta-project.eu/"
+format:
+  revealjs:
+    theme: "simple" # Dark Mode
+    logo: https://upload.wikimedia.org/wikipedia/commons/e/e5/Universitaet_Trier_Logo_2021.png
+    footer: https://github.com/Zeta-and-Company/expertise-statistics
+    transition: "slide" # Sanfter Übergang
+    slide-number: true # Zeigt Foliennummern
+    reveal_options:
+      controls: true # Steuerungselemente
+      progress: true # Fortschrittsbalken
+      slideNumber: true # Foliennummern anzeigen
+      history: true # Navigation via Browser-Verlauf
+      overview: true # Übersichtmodus
+editor: visual
+bibliography: references.bib
+csl: DHd.csl
+---
+
+## Einleitung
+
+::: notes
+- In diesem Beitrag versuchen wir die Lücke zwischen qualitativen und quantitativen Aspekten in den Computational Literary Studies zu schließen, indem wir ein Mapping zwischen qualitativen, expertenbasierten „Subgenre-Profilen“ und Listen an distinktiven Wörtern miteinander abgleichen um Kongruenzen und Unterschiede festzustellen. 
+- Dabei konzentrieren wir uns auf die Analyse von vier Untergattungen französischer Romane und zählen wieviele distinktive Wörter pro Keyness-Maß interpretierbar im Sinne der zuvor erstellten Profile waren. 
+- Die vorliegende Untersuchung wurde im Rahmen des Projekts Beyond Words durchgeführt, das statistische Maße der Distinktivität auf Grundlage von Worthäufigkeit, Wortverteilung und Dispersion in den Blick nimmt und analysiert.
+:::
+
+------------------------------------------------------------------------
+
+### 
+
+> La différence n'est pensée que dans le jeu comparé de deux similitudes.”
+>
+> — (Gilles Deleuze, *Différence et répétition*, 1968)
+
+::: notes
+   - Wie Gilles Deleuze 1968 in Différence et répétition betont, kann Differenz nicht isoliert verstanden werden, sondern nur im Zusammenhang mit Ähnlichkeiten oder Gleichartigem. La différence n’est pensée que dans le jeu comparé de deux similitudes = Das Spiel der Ähnlichkeiten erzeugt die Wahrnehmung der Differenz (Deleuze, 2015, S. 238).
+   - Deleuzes Betonung der Verflechtung von Differenz und Ähnlichkeit ist entscheidend für das Verständnis der Bedeutung distinktiver Wörter in einem Text, da diese Wörter ihre Bedeutung durch ihre kontrastive Beziehung zu anderen Wörtern innerhalb eines Textes und auch über verschiedene Textgruppen hinweg erlangen.
+   - Die statistische Auswertung von Worthäufigkeiten kann in der Sprachwissenschaft auf eine lange Geschichte zurückblicken; ein frühes Beispiel einer solchen nicht-computationellen Studie ist Yules De Imitatione Christi (1944).
+    - Ziel solcher Studien war häufig die Bestimmung der Autorschaft, heute auch unter dem Namen ‚Stilometrie’ eine beliebte Methode der Digital Humanities, wie (Burrows 2007; Craig und Kinney 2009; Kestemont u. a. 2018; Savoy 2020; Rebora 2023, 203) und viele andere in Studien zu Fragen der Autorschaft, der Gattungszugehörigkeit oder zu Genderunterschieden zeigen.
+:::
+
+------------------------------------------------------------------------
+
+## Distinktivitätsmaße
+::: notes
+- In Computerlinguistik und CLS existiert eine zunehmend unübersichtliche Vielzahl an statistischen Maßen, um große Textmengen hinsichtlich distinktiver Wörter zu untersuchen. 
+- Dies ist begründet in fachlichen oder nationalen Traditionen, liegt aber auch teilweise an der Implementierung in Tools. 
+- Um ein Beispiel zu geben: In Frankreich wird häufig das Maß ‘spécificité’ verwendet, das vor allem in französischen Tools wie TXM (Heiden et al. 2016) oder IRaMuTeQ (Ratinaud 2008) implementiert ist. Begriffsklärung: Keyness-Maß und Distinktivitätsmaß werden im folgenden Vortrag als synonyme Begriffe verwendet.-
+:::
+
+### Hintergrund: Evaluationsstudie
+
+![@du_evaluation_2022](expertise_statistik_files/figure-revealjs/jcls_paper_measures_f1.PNG)
+
+::: notes
+- In einer früheren Studie haben wir verschiedene Distinktivitätsmaße bewertet (9 verschiedene Maße). - Dabei unterteilen wir die Maße in drei Kategorien: frequenzbasierte Maße, verteilungsbasierte Maße und dispersionsbasierte Maße.
+- In dieser früheren Studie konnte gezeigt werden, dass Maße, die nicht nur Frequenz, sondern auch Dispersion berücksichtigen in einem Downstream Klassifikations Prozess besser abschneiden.
+- Aus allen drei Kategorien (frequenzbasiert, verteilungsbasiert, dispersionsbasiert) haben wir jeweils das Maß ausgewählt, das in der früheren Studie am besten abgeschnitten hat.
+- So erhalten wir als drei Maße, mit denen wir in der nun vorgestellten Studie weiterarbeiten:
+:::
+
+------------------------------------------------------------------------
+
+### Verwendete Distinktivitätsmaße
+
+::: incremental
+-   Log-Likelihood-Ratio-Test (@dunning_accurate_1993)
+-   Welch’s t-Test (@welch_generalization_1947)
+-   Logarithmisches Zeta (@burrows_all_2007; @schoch_burrows_2018)
+:::
+
+::: notes
+- Der Log-Likelihood-Ratio-Test \[frequenzbasiert\] ist ein Standard-Maß in der Computerlinguistik, hat jedoch den Nachteil, dass er auf der Gesamtwortzahl im Korpus basiert und häufige, aber ungleichmäßig verteilte Wörter bevorzugen kann. 
+- Welch’s t-Test: \[verteilungsbasiert\] Im Gegensatz zum klassischen t-Test setzt Welch’s t-Test keine Normalverteilung voraus und ist daher für Sprachkorpora zuverlässiger. 
+- Zeta \[dispersionsbasiert\] wurde ursprünglich zur Autorschaftsattribution entwickelt und vergleicht die gleichmäßige Verteilung von Merkmalen in zwei Textsammlungen. 
+- Die logarithmische Zeta-Version wurde von Schöch et al. (2018) adaptiert.
+:::
+
+------------------------------------------------------------------------
+
+## Korpus
+
+![crime, scifi, sentimental, blanche \| 1970s, 1980s, 1990s](expertise_statistik_files/figure-revealjs/book_cover_subgenre.png) Je 50 Romane: 4 x 3 x 50 = 600 Romane
+
+::: notes
+- Vier Buchcover aus dem Korpus zeitgenössischer französischer Romane in vier Subgenres: Kriminalroman, Science-Fiction-Roman, Sentimentalroman und ‘littérature blanche’ (Hochliteratur).
+- Der Name ‚littérature blanche‘ spielt auf das häufig weiße Buchcover der Edition de Gallimard an. Der Verlag hat auch eine langjährige, prestigeträchtige Reihe ‘Collection Blanche’. 
+- Diese Subgenres enthalten wiederkehrende Formeln von Strukturelementen, typischen Protagonisten, Erzählmustern, wiederkehrenden Schauplätzen und charakteristischen sprachlichen Mustern.
+- Aufgrund dieser Muster und Schemata sind sie besonders geeignet als Untersuchungsmaterial zur Extraktion distinktiver Wörter pro Gattung und pro Keyness-Maß.
+- Die zu erwartenden Muster an Themen, Figuren, Schauplätzen, Tonalitäten oder sprachlichen Spezifika sind eingegrenzter als in einem breit angelegten Korpus französischer Literatur.
+- Serien von Kriminal- oder Science-Fiction-Romanen sind zudem Beispiele für serielles Erzählen, das auf eine lange Geschichte in der französischen Literatur zurückblicken kann (Beispiele für serielles Erzählen finden sich im französischen Roman des 19. Jahrhunderts, zum Beispiel im Rougon-Macquart-Zyklus von Émile Zola oder in der Comédie humaine von Balzac.)-
+:::
+
+------------------------------------------------------------------------
+
+### Datenstruktur
+
+::: incremental
+-   Zeitraum: 1970–1999
+-   Umfang: 600 Romane, 33 Millionen Tokens![Anzahl an Romanen pro Jahr](expertise_statistik_files/figure-revealjs/barchart_publication_years.png)
+:::
+
+::: notes
+-   Es wurde ein Korpus französischer Romane der 1970er, 1980er und 1990er Jahre erstellt, welches vier Gattungen enthält. 
+- Das Korpus zeitgenössischer französischer Literatur enthält 33 Millionen Tokens und umfasst 600 Romane, gleichmäßig verteilt auf vier Subgenres (Sentimentalromane, Kriminalromane, Science-Fiction-Romane, Hochliteratur) und drei Zeitperioden (1970er, 1980er, 1990er Jahre). Somit besteht das Korpus aus 50 Romanen pro Jahrzehnt und Subgenre. 
+- Die Jahrzehnte sind gleichmäßig vertreten, allerdings ist ein Höhepunkt der Veröffentlichungen in den Jahren 1989–1990 zu verzeichnen 
+- Da alle Romane urheberrechtlich geschützt sind, wurde das Korpus in Form von „abgeleiteten Textformaten“ (Schöch u. a. 2020) veröffentlicht, einem Format, das für bestimmte computergestützte Analysen geeignet ist, aber für Menschen unlesbar bleibt.+
+:::
+
+------------------------------------------------------------------------
+
+### Verlage
+
+![](expertise_statistik_files/figure-revealjs/publisher_per_subgenre.png)
+
+::: notes
+- Wir können hier einen Blick auf die Verlage werfen, die im Korpus vertreten sind: Gallimard beispielsweise ist ein klassischer Verlag für Hochliteratur, Kriminalromane werden häufig von Le Masque, Rivages oder der Librairie des Champs-Elysée publiziert.
+- Le Masque ist ein 1927 gegründeter Verlag, der zunächst englische Kriminalliteratur in Übersetzung verlegte. 
+- Die ersten französischen Autor:innen verlegten ihre Kriminalgeschichten häufig unter Pseudonym, um ebenfalls ‚englisch zu wirken. 
+- Populäre Science-Fiction Romane hingegen häufig von J‘ai lu oder Fleuve Noir. Im Genre der Sentimentalromane dominiert der weltweit agierende Verlag Harlequin. 
+- Der Verlag verfolgt eine weltweite Marketing-Strategie für ein internationales Publikum und gibt den Autor:innen in Writing Guidelines detaillierte Vorgaben zu Settings, Figurenkonstellationen, Handlungsstruktur und Tonalität. 
+- Bei einem Teil der Sentimentalromane gibt es daher auch einen höheren Anteil an Übersetzungen.
+:::
+
+------------------------------------------------------------------------
+
+## Ziel: Interpretierbarkeit
+
+::: incremental
+-   Vergleich eines Subgenres (150 Romane) mit allen anderen (450 Romane).
+-   Lemmatisierung mit SpaCy.
+-   Python-Paket `pydistinto` (@du_pydistinto_2021) zur Berechnung von Zeta, Welch und LLR.
+-   Ergebnislisten: Top 50 distinktive Wörter pro Subgenre.
+-   Matching mit qualitativen Subgenre-Profilen.
+:::
+
+::: notes
+-   Aus dem beschriebenen Korpus kontrastieren wir nun ein Subgenre, also 150 Romane mit den restlichen Subgenres. 
+- Mithilfe des von uns entwickelten Python-Pakets pydistinto extrahieren wir die Top 50 distinktiven Wörter anhand von Zeta, Welch und LogLikelihood Ratio.
+- Diese werden im Anschluss mit qualitative erstellten Subgenre Profilen abgeglichen.
+-  Unser Ziel ist es dabei, die Interpretierbarkeit und Erklärbarkeit der untersuchten Keyness-Maße zu bewerten.
+:::
+
+------------------------------------------------------------------------
+
+## Methode
+
+![](expertise_statistik_files/figure-revealjs/workflow.png)
+
+::: notes
+-   Wir sehen hier eine schematische Darstellung der Operationalisierung: Anteil interpretierbarer Wörter pro Keyness-Maß.
+-   Der Fokus auf  Profile liegt auf thematischen Konzepte, Figuren, Schauplätze, Sprachmuster, Tonalität, narrative Form und narrativer Struktur.
+-   Die Zuordnung der Wortlisten zu den Subgenre-Profiltexten wurde in drei Durchläufen von Fachwissenschaftler:innen der Romanistik vorgenommen.
+:::
+
+------------------------------------------------------------------------
+
+## Subgenre-Profile
+
+::: incremental
+- thematic Concepts (bspw.: Technologie)
+- Language Patterns (bspw.: Neologismen)
+- Main Characters (bspw.: Wissenschaftler:in)
+- Space / Setting (bspw.: Weltraum)
+- Tonality (bspw.: schwarzer Humor)
+- Narrative form (bspw.: Introspektion )
+- Narrative structure (bspw.: Reise eines Einzelgängers)
+- Language patterns:“Language patterns one can observe in this genre are neologisms, technical vocabulary and intertextual references, often making explicit references to older works of popular literature.”
+::: 
+
+::: notes
+- Hier ein Beispiel, das das Vorgehen verdeutlichen soll. Wenn Sie möchten können Sie mitraten, um welches Subgenre-Profil es sich hier handelt. 
+:::
+
+------------------------------------------------------------------------
+
+## Matching
+
+| Genre-Profil | Zeta | LLR | Welch |
+|------------------|------------------|------------------|------------------|
+| French detective fiction is characterized by sociolect, informal register and direct speech. | *flic, foutre, type, gars, mec, con, truc, merde, hein, copain, boulot, gueule, môme* | *dire, flic, mec* | *flic, dire, oui, foutre, type, con, truc, merde, ah* |
+|  | 13/50 | 3/50 | 9/50 |
+
+: {.striped .hover}
+
+::: notes
+- wir sehen hier ein Beispiel, wie eine solche Zuordnung dann konkret aussieht. 
+:::
+
+------------------------------------------------------------------------
+
+## Ergebnisse
+
+![Anzahl der ‘matching keywords’ (nach Maß und Subgenre)](expertise_statistik_files/figure-revealjs/heatmap_interpretability.png)
+
+::: notes
+- Expected / unexpected  an den 50 Wörtern. 
+- Erstes Ergebnis: Zeta und Welch ermitteln mehr Keywords, die einer bestimmten Kategorie aus den Subgenre-Profilen zugeordnet werden können
+- Leichter Vorteil für Zeta gegenüber Welch
+- Vor allem aber: LLR schneidet schlecht ab!
+- Auch über die Gattungen erfährt man etwas: sentimental ist besonders “einfach”, “blanche” schwerer zu fassen über die Keywords.
+- 
+:::
+
+------------------------------------------------------------------------
+
+## Unexpected bei ‘literary fiction’
+
+| Zeta (6/50)|LLR (26/50)|Welch (21/50)|
+|------|-----|------|
+|  ***horse***, ***flower***, ***bird***, everyone, among, ***rose*** |rhada, the, their, oneself, of, mr, which, lalla, he, isambour, not, as, have, ludo, djafar, prisko, camier, by, mercier, planet, vito, fintan, khan, their, but, daquin, where | who, like, where, by, whose, every, at, the, of, in, big, that, more, even, everyone, their, bottom, or, there, nor |
+| ***cheval***, ***fleur***, ***oiseau***, chacun, parmi, ***rose*** | rhada, le, lui, se, de, mr, qui, lalla, il, isambour, pas, comme, ludo, djafar, prisko, camier, par, mercier, planète, vito, fintan, khan, leur, mais, daquin, où |qui, comme, où, par, dont, chaque, au, le, de, dans, grand, celui, plus, même, chacun, leur, fond, ou, là, ni |
+
+::: notes
+- Auffällig sind hier vor allem die Pflanzen und Tiere
+- Das ist etwas, was uns in der Sekundärliteratur nicht begegnet ist, aber in der Kontrastierung hier als distinktiv hervor tritt.
+:::
+------------------------------------------------------------------------
+
+## Fazit
+
+-  Zeta und Welch haben eine bessere Performance als LLR (= hoher Anteil an Keywords, die auf die Profile gemappt werden können)
+- Zeta und Welch zeigen eine gewisse Überlappung von Keywords (laut Jaccard Similarity 0.43 im Durchschnitt der Subgenres)
+- Je besser ein Maß funktioniert, in der Perspektive der qualitativen Evaluation, desto weniger überraschend sind die Ergebnisse (wir finden was wir suchen)
+- Tiere/Pflanzen [‘Pferd’, ‘Vogel’, ‘Blüte’] sind distinktiv für Hochliteratur kontrastiert mit Science-Fiction / Kriminalroman / sentimentaler Roman.
+
+::: notes
+
+:::
+
+------------------------------------------------------------------------
+
+## Vielen Dank für die Aufmerksamkeit! 
+
+
+::: notes
+Vielen Dank für die Aufmerksamkeit, wir freuen uns über Ihre Fragen.
+:::
+
+
+------------------------------------------------------------------------
+
+## Ressourcen
+
+* Korpus and Metadaten
+  + <https://github.com/Zeta-and-Company/dtf600>
+  + DOI: 10.5281/zenodo.10853581
+* Code und Forschungsdaten 
+  + <https://github.com/Zeta-and-Company/expertise-statistics> 
+  + DOI: 10.5281/zenodo.10853663
+* Pydistinto 
+  + <https://github.com/Zeta-and-Company/pydistinto> 
+  + DOI: 10.5281/zenodo.6517683
+
+::: notes
+Hier unsere verwendeten Ressourcen, Daten und Skripte. 
+:::
+
+------------------------------------------------------------------------
+
+## Bibliographie
+
+::: notes
+Hier werden die Quellen aufgeführt, die in der Präsentation verwendet wurden.
+:::
